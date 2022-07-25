@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+<center>
+<form>
+<h1>My 2nd Activity in IPT </h1>
+<h3>Good day!Lets try THE HTML PRACTICE</h3>
+</head>
+</center>
+
+<body style="background-color:#B0E0E6 ;">
+<center>
+<form>
+<tr>
+<h1>YouTube </h1>
+<h3>Ang YouTube ay isang entertainment at social media platform na kung saan makakanood at makakapag post ka ng mga video na mapapanood ng mga tao. sa ngayon ang youtube ay kilala na ng maraming tao mundo. sa pamamagitan ng pag post ay maari kang kumita sa youtube. ang youtube ay mayroong magandang system dahil kaya nila mag organize ang kanilang website. kaya ko napili ang youtube dahil bukod sa pwede ka kumita dito nakakatulomg panito dahil sa napakarami mong pwede matutunan sa mga content. </h3>
+</th>
+</tr><br>
+<tr>
+<h1>Twitter</h1>
+<h3>Ang twittter ay isang social media platform na ginagamit ng maraming tao sa mag tweet at pag share ng kanilang buhay sa social media. Sa twitter ay maari kang gumamit ng hashtags or nakakakita ka ng mga hashtags sa mga nag trend na topic. Ang isa sa silbi ng twitter ay para makakonek sa mga tao at makapag ng kanila thoughts. kaya ko napili ang twitter ay ito ay mapag kakatiwalaan na website.</h3>
+</th>
+</tr><br>
+<tr>
+<h1>w3schools</h1>
+<h3>Ang w3schools ay isang website na ginagamit para matuto ka ng codinga at progrmamming. napakaking tulong nito lalo na sa mga estudiyante ma IT at gusto matuto ng codings. napakarami kang matutunan dito dahil ito ay kumpleto at andito lahat ng mga about sa programming. lahat ay simple lang at madaling masundan matuto ka agad kung gusto mo. kaya ko napili ang w3schools dahil pwede siya sa lahat  </h3>
+</th>
+</tr><br>
+<tr>
+<h1>Instagram</h1>
+<h3>Ang Instagram ay isang social media platform nankung saan ay makakapag post ka ng mga pictures mo. halos parehas sila ng facebook at maraming magagandang filter na magagamit dito. kaya ang instagram ang napili ko dahil napaka inter active nito.  </h3>
+</th>
+</tr><br>
+<tr>
+<h1>Shopee</h1>
+<h3>Ang shopee ay isang shopping platform na pwede ka makabili ng kung ano anong products. haloslahat ma ng products na pwede mo mahanap andito na. at madali lang siya gamitinpati ang mga payment ay hindi ganun kahirap dahil maraming pag pipiliin gaya ng cash on delivery. safe at secure ang mga product na mabibili dahil ito ay kanila iniingatan. kaya ko naoili ang shopee dahil sa nga sa pandwmic tayo ito ay malaking tulong hindi mo na kailangan lumabas ng bahay para bumili </h3>
+</th>
+</tr><br>
+
+<form>
+<table style="border: 2px solid black; width: 50%; margin-left: auto;
+            margin-right: auto; margin-top: 3rem;">
+                <tr>
+                <th rowspan="6" style="border: 2px solid black; color: #E9967A; font-size: 25px;">Search</th>
+                  <th colspan="2" style="border: 2px solid black; color: #E9967A; font-size: 25px;">Browser</th>
+                  <th style="border: 2px solid black; color: #E9967A; font-size: 25px;">Website</th>
+                  <th style="border: 2px solid black; color: #E9967A; font-size: 25px;">Links</th>
+                </tr>
+                <tr>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Chrome</td>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Google</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;">YouTube</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;"><a href="https://youtube.com/login/">https://www.youtube.com/</a></td>
+                  </tr>
+		
+		    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Chrome</td>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Google</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;">Twitter</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;"><a href="https://Twitter.com/">https://www.Twitter.com/</a></td>
+                  </tr>
+
+		    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Chrome</td>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Google</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;">w3schools</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;"><a href="https://w3schools.com/">https://www.w3schools.com/</a></td>
+                  </tr>
+
+		<td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Chrome</td>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Google</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;">Instagram</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;"><a href="https://www.Instagram.com/">https://www.Instagram.com/</a></td>
+                  </tr>
+
+		<td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Chrome</td>
+                    <td style="border: 2px solid black; color: #203239; color: #FFD700; font-size: 20px;">Google</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;">Shopee</td>
+                    <td style="border: 2px solid black; color: #FFD700; font-size: 20px;"><a href="https://Shopee.com/">https://www.Shopee.com/</a></td>
+                  </tr>
+    </table>
+
+
+
+
+</form>
+</center>
+</body>
+</html>
