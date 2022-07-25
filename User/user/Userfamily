@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Family</title>
+<style>
+    body {
+        background-color:#B0E0E6
+    }
+    .button {
+        display: inline-flexbox;
+        height: 70px;
+        width: 70px;
+        padding: 0px;
+        border-radius: 50px;
+        overflow: hidden;
+        background-color: Black;
+        align-content: center;
+        margin: 3%;
+        border-color: transparent;
+    }
+    h1 {
+    border: 5px solid black;
+    outline-style: outset;
+    outline-color: rgb(128,128,128);
+    background-color: rgb(204, 255, 153);
+    opacity: 75%;
+    border-radius: 50px
+    }
+    td {
+    
+    border-style: solid;
+    border-width:1px;
+    background-color: skyblue;
+    opacity: 75%;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 1%;
+    cursor: context-menu;
+    margin: 25%;
+    bottom: 150px;
+    border-bottom: 300;
+    border-color: black;
+    padding-left: 25px;
+    padding-right: 25px;
+    }
+    hr {
+    color: skyblue;
+    }
+    #d1 {
+    background-color: transparent;
+    color: black;
+    }
+    #d2 {
+    background-color: transparent;
+    color: black;
+    }
+    #d3 {
+    background-color: transparent;
+    color: black;
+    }
+    #b2:hover{
+    background-color:blue; transform: scale(1.2);
+    }
+    #b1:hover{
+    background-color:blue;
+    ; transform: scale(1.2);
+    }
+    h1:hover{background-color: blue; transform: scale(1.2);}
+    h3:hover{background-color: blue; transform: scale(1.2);}
+    td:hover{background-color: blue; transform: matrix3d(1.2);}
+    </style>
+    </head>
+    <center>
+    <h1>My Family</h1>
+    
+    </center>
+    <body>
+    <form>
+    <center>
+    <table style= font-family:cursive;>
+    <hr>
+    <tr>
+    <td id="d1"><a href="Activity 5P.html">
+    <button id="b1" type="button" class="button">
+    <span>
+    <img src="/storage/emulated/0/DCIM//Facebook/FB_IMG_1646585590865.jpg" alt="button" width="74" height="74">
+    </span>
+    </button>
+    <br>
+    </a>2nd Sibling </td>
+    <td>MORENO, MA. CRISTINA</td>
+    <td>ORPHAN OF THE FAMILY</td>
+    </tr>
+    
+    <tr>
+    <td id="d1"><a href="Activity 5P1.html">
+    <button id="b1" type="button" class="button">
+    <span>
+    <img src="/storage/emulated/0/SHAREit/pictures/received_344990409945113.jpeg" alt="button" width="70" height="70">
+    </span>
+    </button>
+    <br>
+    </a>3rd Sibling </td>
+    <td>MORENO, MA.CRIST</td>
+    <td>THE MALDITA</td>
+    </tr>
+    
+    <tr>
+    <td id="d1"><a href="ACTIVITY 5P2.html">
+    <button id="b1" type="button" class="button">
+    <span>
+    <img src="/storage/emulated/0/SHAREit/pictures/IMG20201009102536.jpg" alt="button" width="70" height="70">
+    </span>
+    </button>
+    <br>
+    </a>YOUNGEST</td>
+    <td>MORENO, CRIS PAUL</td>
+    <td>PASAWAY</td>
+    </tr>
+    <center>
+    <a href="ACTIVITY 56281.html">
+    <button id="b1" type="button" class="button">
+    <span>
+    <img src="button.png" alt="" width="50" height="50">
+    </span>
+    </button>
+    </a>
+    </table>
+    </center>
+    </form>
+    </body>
+    </html>
