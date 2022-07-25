@@ -1,0 +1,85 @@
+<html>
+<head>
+<title></title>
+</head>
+<style>
+body{
+background-color:#B0E0E6
+}
+td{
+width:50%;
+border: 1px solid black; 
+color: Black; 
+font-size: 20px;
+border-radius:10px;
+border-color: Black;
+}
+h1{
+    border-style: solid;
+    border-width: 5px;
+    border-color: cyan;
+    font-size: 50px;
+    font-family: serif;
+    color: Black;
+    font-weight: bold;
+    text-shadow: 5px 5px black
+}
+img {
+  border-radius:10px;
+}
+
+.image2 {
+  border-radius:50%;
+  width:50px;
+  height:50px;
+  
+}
+
+h2{
+color:Blue;
+}
+
+h5{
+margin-top:-20px;
+color: Blue;
+}
+</style>
+<body>
+<center>
+<h1> PERSONAL INFORMATON </h1>
+<img src="/storage/emulated/0/Pictures/Messenger/received_418675493054844.jpeg" width="100" length="100" title="Facebook"></img>
+<h2> Moreno, Christian L.</h2>
+<h5>"If you can think abkut it you can do it"</h5>
+
+<form>
+	<table style="margin-top: 0px;">
+	
+	<tr>
+		<td>Place of Birth:</td>
+		<td>Cauayan, Isabela</td>	
+	</tr>
+	
+	<tr>
+		<td>Status:</td>
+		<td>Single</td>	
+	</tr>
+
+	<tr>
+		<td>Religion:</td>
+		<td>Roman Catholic</td>	
+	</tr>
+
+	<tr>
+		<td>Citizenship:</td>
+		<td>Filipino</td>	
+	</tr>
+</table>
+</form>
+<a href="MENU.html">
+<img src="https://thumbs.dreamstime.com/b/home-icon-trendy-flat-style-isolated-grey-background-homepage-symbol-your-web-site-design-logo-app-ui-vector-137162863.jpg" title="Homepage" class="image2"></img>
+</a>
+
+
+</center>
+</body>
+</html>
